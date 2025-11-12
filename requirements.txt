@@ -1,0 +1,5 @@
+faster-whisper
+ffmpeg-python
+python-telegram-bot==22.5
+huggingface-hub
+
